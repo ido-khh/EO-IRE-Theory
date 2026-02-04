@@ -92,3 +92,26 @@ Users may study, cite, and implement for non-commercial research while maintaini
   url = {https://doi.org/10.5281/zenodo.18475653},
   note = {Version 10.0}
 }
+
+## ⚖️ License & Reference Implementation Policy
+
+This repository and its conceptual framework are governed by the following policy to preserve the integrity of the **EO-IRE** Theory:
+
+### 1. Attribution & Brand Integrity
+- **Required Attribution:** Any use, fork, or implementation of this framework **must include the following credit**:  
+  > "Inspired by EO-IRE (Ido, 2026)"
+- **Non-Rename Policy:** The core terms (EO-IRE, RRR, Maet-Tte, Pyeongyunin, Hapgyunin) and the **fundamental 7-stage cycle** must retain their original names in any derivative works to prevent conceptual distortion.
+
+### 2. Usage Rules
+- **Forking / Study:** Allowed for research, experimentation, and applied modeling.
+- **Modifications:** Permitted **only for applied contexts**, provided that the **Core EO-IRE Rules** (as defined in the reference documents) are respected and clearly cited.
+- **Prohibited Actions:** Renaming the repository or any core terminology, or claiming Core EO-IRE authority in non-canonical works, is not allowed.
+
+### 3. License for Implementation Code
+- **Apache 2.0 License + Attribution Clause** is applied for all source code and implementation files.
+- **Implications:** Forking is allowed, redistribution is allowed, **but core terminology and structure cannot be renamed or altered without explicit permission.**
+
+### 4. Canonical Reference (Zenodo)
+- For academic or formal citations, always use the official DOI:  
+  - **DOI:** [https://doi.org/10.5281/zenodo.18475653](https://doi.org/10.5281/zenodo.18475653)  
+  - **Author:** Ido (2026)
