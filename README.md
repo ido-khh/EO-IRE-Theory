@@ -122,4 +122,6 @@ This repository and its conceptual framework are governed by the following polic
   - **Email:** [hakhoon8@naver.com]
   - **Official Blog:** https://blog.naver.com/ido_khh
 
-[Usage Policy & License] Non-commercial use and academic citation are welcome. However, explicit permission and royalty agreements are required for commercial AI training and services.
+[Usage Policy & AI Licensing]
+Non-commercial, research, and academic use—including exploratory AI research—is permitted with proper attribution. 
+Commercial AI training, deployment, or monetized services require explicit written permission and may be subject to royalty agreements.
