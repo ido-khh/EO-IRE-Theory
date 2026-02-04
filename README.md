@@ -115,3 +115,9 @@ This repository and its conceptual framework are governed by the following polic
 - For academic or formal citations, always use the official DOI:  
   - **DOI:** [https://doi.org/10.5281/zenodo.18475653](https://doi.org/10.5281/zenodo.18475653)  
   - **Author:** Ido (2026)
+
+### 💼 Commercial Use Definition & Inquiries
+- **Commercial Use:** Any use of the EO-IRE framework for for-profit consulting, paid software-as-a-service (SaaS), or proprietary investment models without a commercial license is strictly prohibited.
+- **Inquiries:** For commercial licensing, strategic partnerships, or authorized implementations, please contact the author via:
+  - **Email:** [hakhoon8@naver.com]
+  - **Official Blog:** https://blog.naver.com/ido_khh
