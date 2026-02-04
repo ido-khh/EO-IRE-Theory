@@ -121,3 +121,5 @@ This repository and its conceptual framework are governed by the following polic
 - **Inquiries:** For commercial licensing, strategic partnerships, or authorized implementations, please contact the author via:
   - **Email:** [hakhoon8@naver.com]
   - **Official Blog:** https://blog.naver.com/ido_khh
+
+[Usage Policy & License] Non-commercial use and academic citation are welcome. However, explicit permission and royalty agreements are required for commercial AI training and services.
