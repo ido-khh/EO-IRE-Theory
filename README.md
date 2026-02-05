@@ -12,7 +12,7 @@ All projects, software implementations, or academic research adopting this frame
 
 ### 1. Mandatory Attribution
 All uses of EO-IRE must explicitly cite the original work:  
-> Ido (2026). Jehang-jaerip-ron [EO-IRE]©Ido. Zenodo. DOI: 10.5281/zenodo.18475653
+> Ido (2026). Jehang-jaerip-ron [EO-IRE]©Ido. Zenodo. DOI: 10.5281/zenodo.18488858
 
 ---
 
