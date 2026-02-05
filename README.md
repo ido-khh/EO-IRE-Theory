@@ -3,7 +3,7 @@
 
 Official Repository for EO-IRE v10.0 (Canonical Specification v1.0)  
 Author: Hakhoon Kim (Ido) | [ORCID: 0009-0004-9153-1604]  
-DOI: 10.5281/zenodo.18475653
+DOI: 10.5281/zenodo.18488858
 
 ---
 
