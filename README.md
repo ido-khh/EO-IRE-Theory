@@ -30,7 +30,7 @@ Inspired by EO-IRE: Any project that borrows EO-IRE terminology, repurposes its 
 ⚠️ Usage Strictness: Any claim using the "Applied EO-IRE" designation that misinterprets canonical concepts, alters core definitions, or fails to maintain O.F./R.F. structural integrity is regarded as a misrepresentation of the theory and a violation of this policy.
 
 ### 3. Structural Integrity & Non-Rename Policy
-- **Protection of Logic:** Any structural emulation retaining the functional logic of the 7-stage cycle or the exponential relationship between AS and ES is legally classified as a derivative work.  
+- **Protection of Logic:** Any structural emulation retaining the functional logic of the 7-stage cycle or the exponential relationship between AS and ES (v.13.0) is legally classified as a derivative work.  
 - **Non-Rename Policy:** Core terms (e.g., RRR, Maet-gwangye, Tte-gwangye, Pyeongyunin, Hapgyunin) must retain their original names to prevent conceptual distortion.
 
 ### 4. Prohibited Statements (Gold Standard)
