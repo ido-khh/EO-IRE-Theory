@@ -53,6 +53,8 @@ Licensed under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc/
 ### 2. Implementation Code (The Files)
 Source code and implementation files are licensed under the [**Apache License 2.0**](https://www.apache.org/licenses/LICENSE-2.0).
 * Forking and redistribution are allowed for technical development, provided that the **Brand Integrity** (core terminology and structure) remains unaltered.
+* For authoritative definitions of “commercial use,” “derivative works,” and AI-related restrictions, refer to the LICENSE file.
+
 
 > [!IMPORTANT]
 > For detailed compliance, mandatory attribution requirements, and licensing rules, see [**LICENSE**](https://github.com/ido-khh/EO-IRE-Theory/blob/main/LICENSE)
