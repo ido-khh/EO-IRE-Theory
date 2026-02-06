@@ -1,5 +1,14 @@
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+🛡️ License & Reference Policy (수정본)
+This repository distinguishes between the theoretical framework and its technical implementation to ensure both academic growth and canonical integrity.
 
-This theoretical framework is protected. Commercial use is strictly prohibited without explicit written permission from the author, Hakhoon Kim (Ido). Derivative works (structural emulations) are not permitted.
+1. Theoretical Framework (The Logic)
+Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
-Additionally, any software implementation is subject to the Apache License 2.0 with the Attribution Clause as specified in the README.md.
+Non-Commercial: Proprietary investment models, paid consulting, or monetized AI services require a separate commercial license from the author, Hakhoon Kim (Ido).
+
+Share-Alike (SA): Derivative works, including structural emulations or theoretical extensions, are permitted only if they are distributed under this exact same license and strictly adhere to the Usage Compliance & Integrity rules defined in this README.
+
+2. Implementation Code (The Files)
+Software implementations and source code within this repository are subject to the Apache License 2.0 with an additional Attribution Clause.
+
+Implications: Redistribution and modification are allowed for technical development, provided that the core terminology (RRR, Maet-Tte, etc.) and structural logic remain unaltered and properly attributed.
