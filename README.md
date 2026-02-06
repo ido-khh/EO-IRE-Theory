@@ -1,9 +1,10 @@
 # Jehang-jaerip-ron [EO-IRE]©Ido
-**A Bio-Strategic Theory of Behavioral Patterns and Future Trajectories of State and Corporate Entities**
+*A Bio-Strategic Theory of Behavioral Patterns and Future Trajectories of State and Corporate Entities*
 
-Official Repository for EO-IRE v10.0 (Canonical Specification v1.0)  
+**Official Repository for EO-IRE v13.0 (Canonical Specification v1.2)**
+
 Author: Hakhoon Kim (Ido) | [ORCID: 0009-0004-9153-1604]  
-DOI: 10.5281/zenodo.18488858
+DOI: [10.5281/zenodo.18500551](https://doi.org/10.5281/zenodo.18500551)
 
 ---
 
@@ -11,117 +12,97 @@ DOI: 10.5281/zenodo.18488858
 All projects, software implementations, or academic research adopting this framework **must strictly follow these rules** to maintain canonical consistency and legal protection.
 
 ### 1. Mandatory Attribution
-All uses of EO-IRE must explicitly cite the original work:  
-> Ido (2026). Jehang-jaerip-ron [EO-IRE]©Ido. Zenodo. DOI: 10.5281/zenodo.18488858
+All uses of EO-IRE must explicitly cite the original work:
+
+> Ido (2026). Jehang-jaerip-ron [EO-IRE]©Ido. Zenodo. DOI: [10.5281/zenodo.18500551](https://doi.org/10.5281/zenodo.18500551)
+
+### 2. Canonical Supremacy & Classification
+The 13+ core concepts (including RRR, AR, Maet-gwangye, Tte-gwangye, etc.) and the 7-stage cycle defined in v13.0 serve as the absolute 'Canonical Specification.'
+
+Core EO-IRE: The original theoretical framework; immutable and canonical.
+
+Applied EO-IRE: Research, models, or real-world applications that strictly adhere to both the O.F./R.F. premises AND the canonical definitions of all core terminology.
+
+Inspired by EO-IRE: Any project that borrows EO-IRE terminology, repurposes its conceptual definitions, or modifies the canonical premises (O.F./R.F.) must include the following statement in the README, abstract, and introduction:
+
+"This project/research borrows EO-IRE terminology but should be considered 'Inspired by EO-IRE' as it deviates from the canonical premises, O.F./R.F. structures, and/or conceptual definitions defined by Ido (2026)."
+
+⚠️ Usage Strictness: Any claim using the "Applied EO-IRE" designation that misinterprets canonical concepts, alters core definitions, or fails to maintain O.F./R.F. structural integrity is regarded as a misrepresentation of the theory and a violation of this policy.
+
+### 3. Structural Integrity & Non-Rename Policy
+- **Protection of Logic:** Any structural emulation retaining the functional logic of the 7-stage cycle or the exponential relationship between AS and ES is legally classified as a derivative work.  
+- **Non-Rename Policy:** Core terms (e.g., RRR, Maet-gwangye, Tte-gwangye, Pyeongyunin, Hapgyunin) must retain their original names to prevent conceptual distortion.
+
+### 4. Prohibited Statements (Gold Standard)
+Users and derivative works **must NOT** claim:
+
+- "EO-IRE is an extension of Game Theory."  
+- "EO-IRE is based on Utility Maximization."
 
 ---
 
-### 2. Context Control
-Projects that borrow EO-IRE terminology but do not fully adhere to the **O.F./R.F. premises** must include the statement:
+## 🛡️ License & Reference Policy
+This repository distinguishes between the theoretical framework and its technical implementation.
 
-> "This project/research borrows EO-IRE terminology but should be considered 'Inspired by EO-IRE'."
+### 1. Theoretical Framework (The Logic)
+Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).**
 
-**⚠️ Repeat this statement in:**
-- Project README / abstract  
-- Academic paper introduction / methods  
-- Documentation headers  
+- **Non-Commercial:** Proprietary investment models, paid consulting, or monetized AI services require a separate commercial license.  
+- **Share-Alike:** Derivative research or models must be redistributed under this same license.
 
-*This ensures legal and scholarly clarity that EO-IRE’s structural premises are not assumed.*
+### 2. Implementation Code (The Files)
+Source code and implementation files are licensed under the **Apache License 2.0.**
 
----
-
-### 3. Structural Protection (Anti-Rebranding / Derivative Works)
-Any structural emulation that retains the **EO-IRE cycle (7 stages)** or the **exponential relationship between AS and ES** (as defined in v1.2), even if terms are renamed or translated, is considered a **derivative work**.  
-Explicit written authorization from the author is required for any derivative work.
+- Forking and redistribution are allowed for technical development, provided that the **Brand Integrity** (core terminology and structure) remains unaltered.
 
 ---
 
-### 4. EO-IRE Core vs Applied Declaration
-- **Core EO-IRE:** The explanatory theoretical framework; immutable and canonical.  
-- **Applied EO-IRE:** Interpretation, modeling, or real-world application of the framework.
+## 📌 Notes for Users (v13.0 Updated)
+This repository is the exclusive canonical reference implementation of EO-IRE.
 
-**⚠️ Purpose:**  
-- Any claim using “EO-IRE” without following Core rules is classified as **Applied version**.  
-- Prevents misattribution of Core theory to external implementations.
-
----
-
-### 5. Prohibited Statements (Gold Standard)
-Users **must NOT** claim:  
-- “EO-IRE ≠ Game theory extension”  
-- “EO-IRE ≠ Utility maximization”  
-
-*This list is binding for any derivative or inspired works to prevent misrepresentation.*
-
----
-
-## 🛡️ License
-This repository and its contents are licensed under **CC BY-NC-ND 4.0**:  
-- Non-Commercial Use Only  
-- No Derivatives without explicit written authorization  
-
-*This protects the framework from unauthorized commercial exploitation and structural imitation.*
+- **Reference Authority:** This implementation is the final authority for all interpretational conflicts.  
+- **Adherence to Integrity:** All implementations must maintain the core logic, specifically the 7-stage cycle and O.F./R.F. premises.  
+- **Classification Duty:**
+  - Works that preserve the full theoretical structure → labeled as **Applied EO-IRE**  
+  - Works that modify the premises or re-purpose terminology → labeled as **Inspired by EO-IRE** (Section 2)  
+- **SA License Compliance:** Any derivative research, model, or code-base must be redistributed under **CC BY-NC-SA 4.0**.  
+- **Commercial Restriction:** No commercial exploitation or monetized AI training without a separate license.  
+- **Enforcement:** Any commercial use or structural emulation without authorization may lead to legal enforcement.
 
 ---
 
 ## 🔗 Official Sources
-- **Zenodo (Full Paper):** [https://doi.org/10.5281/zenodo.18475653](https://doi.org/10.5281/zenodo.18475653)  
-- **Official Blog / Original Text:** [https://blog.naver.com/ido_khh](https://blog.naver.com/ido_khh)  
+- **Zenodo (Full Paper):** [https://doi.org/10.5281/zenodo.18500551](https://doi.org/10.5281/zenodo.18500551)  
+- **Official Blog / Original Text:** [https://blog.naver.com/ido_khh](https://blog.naver.com/ido_khh)
 
 ---
 
-## 📌 Notes for Users
-This repository serves as the **canonical reference implementation** of EO-IRE.  
-Users may study, cite, and implement for non-commercial research while maintaining all compliance and structural rules.  
+## 💼 Commercial Inquiries
+For commercial licensing, strategic partnerships, or authorized industrial implementations, please contact:
 
-**Important:**  
-- Reference implementation must be considered authoritative.  
-- Any commercial use, redistribution, or structural emulation without authorization may lead to legal enforcement.  
-- Projects that borrow terminology but ignore O.F./R.F. premises are **Applied versions**, not Core EO-IRE.
+- **Email:** hakhoon8@naver.com  
+- **Official Blog:** [https://blog.naver.com/ido_khh](https://blog.naver.com/ido_khh)
+
+📜 Changelog
+[v13.0] - 2026-02-06
+License Transition: Updated license from CC BY-NC-ND 4.0 to CC BY-NC-SA 4.0. This change facilitates academic expansion by allowing derivative research, provided they adhere to the same non-commercial and share-alike terms.
+
+Canonical Specification Update: Introduced the 3-tier classification system (Core / Applied / Inspired) to preserve theoretical integrity during ecosystem expansion.
+
+Structural Integrity Protection: Explicitly defined the "Non-Rename Policy" and "Protection of Logic" to prevent conceptual distortion in derivative works.
+
+Technical Separation: Clarified the distinction between the theoretical framework (CC BY-NC-SA 4.0) and implementation code (Apache 2.0).
 
 ---
 
-## 🧭 Citation Example (BibTeX)
+## 📚 Citation Example (BibTeX)
 ```bibtex
 @misc{ido2026jehang_jaerip_ron,
   author = {Hakhoon Kim (Ido)},
   title = {Jehang-jaerip-ron [EO-IRE]: A Bio-Strategic Theory of the Behavioral Patterns and Future Trajectories of State and Corporate Entities},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.18475653},
-  url = {https://doi.org/10.5281/zenodo.18475653},
-  note = {Version 10.0}
+  doi = {10.5281/zenodo.18500551},
+  url = {https://doi.org/10.5281/zenodo.18500551},
+  note = {Version 13.0}
 }
-
-## ⚖️ License & Reference Implementation Policy
-
-This repository and its conceptual framework are governed by the following policy to preserve the integrity of the **EO-IRE** Theory:
-
-### 1. Attribution & Brand Integrity
-- **Required Attribution:** Any use, fork, or implementation of this framework **must include the following credit**:  
-  > "Inspired by EO-IRE (Ido, 2026)"
-- **Non-Rename Policy:** The core terms (EO-IRE, RRR, Maet-Tte, Pyeongyunin, Hapgyunin) and the **fundamental 7-stage cycle** must retain their original names in any derivative works to prevent conceptual distortion.
-
-### 2. Usage Rules
-- **Forking / Study:** Allowed for research, experimentation, and applied modeling.
-- **Modifications:** Permitted **only for applied contexts**, provided that the **Core EO-IRE Rules** (as defined in the reference documents) are respected and clearly cited.
-- **Prohibited Actions:** Renaming the repository or any core terminology, or claiming Core EO-IRE authority in non-canonical works, is not allowed.
-
-### 3. License for Implementation Code
-- **Apache 2.0 License + Attribution Clause** is applied for all source code and implementation files.
-- **Implications:** Forking is allowed, redistribution is allowed, **but core terminology and structure cannot be renamed or altered without explicit permission.**
-
-### 4. Canonical Reference (Zenodo)
-- For academic or formal citations, always use the official DOI:  
-  - **DOI:** [https://doi.org/10.5281/zenodo.18475653](https://doi.org/10.5281/zenodo.18475653)  
-  - **Author:** Ido (2026)
-
-### 💼 Commercial Use Definition & Inquiries
-- **Commercial Use:** Any use of the EO-IRE framework for for-profit consulting, paid software-as-a-service (SaaS), or proprietary investment models without a commercial license is strictly prohibited.
-- **Inquiries:** For commercial licensing, strategic partnerships, or authorized implementations, please contact the author via:
-  - **Email:** [hakhoon8@naver.com]
-  - **Official Blog:** https://blog.naver.com/ido_khh
-
-[Usage Policy & AI Licensing]
-Non-commercial, research, and academic use—including exploratory AI research—is permitted with proper attribution. 
-Commercial AI training, deployment, or monetized services require explicit written permission and may be subject to royalty agreements.
