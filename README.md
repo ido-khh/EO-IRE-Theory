@@ -84,21 +84,23 @@ This repository is the exclusive canonical reference implementation of EO-IRE.
 
 ---
 
+---
+
 ## 💼 Commercial Inquiries
+
 For commercial licensing, strategic partnerships, or authorized industrial implementations, please contact:
 
-- **Email:** hakhoon8@naver.com  
-- **Official Blog:** [https://blog.naver.com/ido_khh](https://blog.naver.com/ido_khh)
+* **Email:** [hakhoon8@naver.com](mailto:hakhoon8@naver.com)
+* **Official Blog:** [https://blog.naver.com/ido_khh](https://blog.naver.com/ido_khh)
 
-📜 Changelog
-[v13.0] - 2026-02-06
-License Transition: Updated license from CC BY-NC-ND 4.0 to CC BY-NC-SA 4.0. This change facilitates academic expansion by allowing derivative research, provided they adhere to the same non-commercial and share-alike terms.
+---
 
-Canonical Specification Update: Introduced the 3-tier classification system (Core / Applied / Inspired) to preserve theoretical integrity during ecosystem expansion.
+## 📜 Changelog [v13.0] - 2026-02-06
 
-Structural Integrity Protection: Explicitly defined the "Non-Rename Policy" and "Protection of Logic" to prevent conceptual distortion in derivative works.
-
-Technical Separation: Clarified the distinction between the theoretical framework (CC BY-NC-SA 4.0) and implementation code (Apache 2.0).
+* **License Transition:** Updated license from `CC BY-NC-ND 4.0` to `CC BY-NC-SA 4.0`. This change facilitates academic expansion by allowing derivative research, provided they adhere to the same non-commercial and share-alike terms.
+* **Canonical Specification Update:** Introduced the **3-tier classification system** (Core / Applied / Inspired) to preserve theoretical integrity during ecosystem expansion.
+* **Structural Integrity Protection:** Explicitly defined the **"Non-Rename Policy"** and **"Protection of Logic"** to prevent conceptual distortion in derivative works.
+* **Technical Separation:** Clarified the distinction between the **Theoretical Framework** (CC BY-NC-SA 4.0) and **Implementation Code** (Apache 2.0).
 
 ---
 
