@@ -1,4 +1,16 @@
-🛡️ License & Reference Policy (수정본)
+# ⚖️ Usage Compliance & Integrity (v13.0)
+
+1. **Canonical Supremacy:** The 13+ core concepts (RRR, AR, Maet-gwangye, Tte-gwangye, etc.) and the 7-stage cycle of EO-IRE v13.0 constitute the absolute 'Canonical Specification.' Any project using EO-IRE terminology but deviating from canonical O.F./R.F. structures or definitions must include the following statement: "This project/research borrows EO-IRE terminology but should be considered 'Inspired by EO-IRE' as it deviates from the canonical specification defined by Ido (2026)."
+
+2. **Academic Non-Commercial Use (NC):** EO-IRE is strictly for academic research only. Any profit-making use—including but not limited to investment models, paid consulting, or monetized AI services—requires a separate commercial license from the author, Hakhoon Kim (Ido).
+
+3. **Mandatory Attribution & Share-Alike (SA):** All implementations and research must cite Ido (2026). Furthermore, any derivative works must be distributed under the CC BY-NC-SA 4.0 license.
+
+4. **Structural Integrity Protection:** Any emulation retaining the 7-stage cycle or the AS/ES logic, even if rebranded or translated, is strictly regarded as a derivative work.
+
+---
+
+🛡️ License & Reference Policy
 This repository distinguishes between the theoretical framework and its technical implementation to ensure both academic growth and canonical integrity.
 
 1. Theoretical Framework (The Logic)
