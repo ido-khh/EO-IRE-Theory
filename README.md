@@ -54,8 +54,8 @@ Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Inter
 Source code and implementation files are licensed under the **Apache License 2.0.**
 
 - Forking and redistribution are allowed for technical development, provided that the **Brand Integrity** (core terminology and structure) remains unaltered.
-- For detailed compliance and licensing rules, see LICENSE [https://github.com/ido-khh/EO-IRE-Theory/blob/main/LICENSE]
-
+- For detailed compliance and licensing rules, see [LICENSE] (https://github.com/ido-khh/EO-IRE-Theory/blob/main/LICENSE)
+  
 ---
 
 ## 📌 Notes for Users (v13.0 Updated)
