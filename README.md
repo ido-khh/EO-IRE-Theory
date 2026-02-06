@@ -55,7 +55,9 @@ Source code and implementation files are licensed under the **Apache License 2.0
 
 - Forking and redistribution are allowed for technical development, provided that the **Brand Integrity** (core terminology and structure) remains unaltered.
 - For detailed compliance and licensing rules, see [LICENSE](https://github.com/ido-khh/EO-IRE-Theory/blob/main/LICENSE)
-  
+> [!TIP]
+> **AI Usage Notice:** Non-commercial AI research is welcomed. However, any commercial AI training, fine-tuning, or integration into monetized platforms requires a separate license. See the [LICENSE](https://github.com/ido-khh/EO-IRE-Theory/blob/main/LICENSE) for details.
+
 ---
 
 ## 📌 Notes for Users (v13.0 Updated)
