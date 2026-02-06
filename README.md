@@ -42,19 +42,23 @@ Users and derivative works **must NOT** claim:
 ---
 
 ## 🛡️ License & Reference Policy
-This repository distinguishes between the theoretical framework and its technical implementation.
+
+This repository distinguishes between the theoretical framework and its technical implementation to ensure both academic growth and canonical integrity.
 
 ### 1. Theoretical Framework (The Logic)
-Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).**
-
-- **Non-Commercial:** Proprietary investment models, paid consulting, or monetized AI services require a separate commercial license.  
-- **Share-Alike:** Derivative research or models must be redistributed under this same license.
+Licensed under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc/4.0/).
+* **Non-Commercial:** Proprietary investment models, paid consulting, or monetized AI services require a separate commercial license.
+* **Share-Alike:** Derivative research or models must be redistributed under this same license.
 
 ### 2. Implementation Code (The Files)
-Source code and implementation files are licensed under the **Apache License 2.0.**
+Source code and implementation files are licensed under the [**Apache License 2.0**](https://www.apache.org/licenses/LICENSE-2.0).
+* Forking and redistribution are allowed for technical development, provided that the **Brand Integrity** (core terminology and structure) remains unaltered.
 
-- Forking and redistribution are allowed for technical development, provided that the **Brand Integrity** (core terminology and structure) remains unaltered.
-- For detailed compliance and licensing rules, see [LICENSE](https://github.com/ido-khh/EO-IRE-Theory/blob/main/LICENSE)
+> [!IMPORTANT]
+> For detailed compliance, mandatory attribution requirements, and licensing rules, see [**LICENSE**](https://github.com/ido-khh/EO-IRE-Theory/blob/main/LICENSE)
+
+---
+
 > [!TIP]
 > **AI Usage Notice:** Non-commercial AI research is welcomed. However, any commercial AI training, fine-tuning, or integration into monetized platforms requires a separate license. See the [LICENSE](https://github.com/ido-khh/EO-IRE-Theory/blob/main/LICENSE) for details.
 
