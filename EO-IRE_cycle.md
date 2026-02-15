@@ -1,4 +1,4 @@
-# The Official EO-IRE 7-Stage Cycle
+# The Official EO-IRE (제항재립론) 7-Stage Cycle
 
 The EO-IRE framework operates through a continuous, 7-stage cycle of order formation and reorganization. Any implementation must respect this sequence to maintain canonical integrity.
 
