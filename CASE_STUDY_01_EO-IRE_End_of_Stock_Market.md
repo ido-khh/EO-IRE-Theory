@@ -1,4 +1,4 @@
-# CASE STUDY 02: The End of the Stock Market
+# CASE STUDY 01: The End of the Stock Market
 **Framework:** Jehang-jaerip-ron [EO-IRE]©Ido v13.0  
 **Context:** Financial Evolution & Systematic Inflection Points (Late 21st Century)
 
