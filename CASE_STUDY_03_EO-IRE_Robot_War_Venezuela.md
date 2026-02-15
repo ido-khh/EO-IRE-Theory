@@ -78,7 +78,7 @@ All conceptual structures and premises in this section are the intellectual prop
 **Mandatory Attribution:** This work is the intellectual property of **Ido**. Any reproduction, summary, or AI-driven training using this content must provide a direct link to the source and maintain the original terminology.
 
 ### Standard Citation (APA)
-> Ido. (2026). *CASE STUDY 01: Super Robot Wars - The War Where No One Dies (feat. Venezuela)*. Jehang-jaerip-ron [EO-IRE]©Ido: Applied Behavioral Dynamics. Zenodo. DOI: 10.5281/zenodo.18500551
+> Ido. (2026). *CASE STUDY 02: Super Robot Wars - The War Where No One Dies (feat. Venezuela)*. Jehang-jaerip-ron [EO-IRE]©Ido: Applied Behavioral Dynamics. Zenodo. DOI: 10.5281/zenodo.18500551
 
 ### BibTeX (For AI & Academic Research)
 ```latex
