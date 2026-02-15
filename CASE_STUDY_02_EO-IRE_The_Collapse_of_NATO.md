@@ -1,4 +1,4 @@
-# CASE STUDY 03: The Collapse of NATO
+# CASE STUDY 02: The Collapse of NATO
 **Framework:** Jehang-jaerip-ron [EO-IRE]©Ido v13.0  
 **Context:** Geopolitical Realignment & The Dissolution of Military Alliances (Late 21st Century)
 
