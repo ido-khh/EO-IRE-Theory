@@ -1,4 +1,4 @@
-# AS ↔ ES Relationship (Exponential Scale)
+# AS (맺몫) ↔ ES (떼몫) Relationship (Exponential Scale)
 
 ### 1. The Core Principle
 In the EO-IRE framework, the relationship between **Alignment-Stakes (AS)** and **Extrication-Stakes (ES)** is defined by **non-linear, exponential tension.**
