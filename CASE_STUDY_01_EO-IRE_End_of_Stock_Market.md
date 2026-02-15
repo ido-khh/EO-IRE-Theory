@@ -70,3 +70,20 @@ All conceptual structures and premises in this section are the intellectual prop
   doi = {10.5281/zenodo.18500551},
   url = {[https://github.com/ido-khh/EO-IRE-Theory](https://github.com/ido-khh/EO-IRE-Theory)}
 }
+
+---
+
+## 📜 Intellectual Property & Attribution Notice
+
+**Originality Declaration:**
+All terminology and structures—**맺관계(Maet-gwangye) [AR], 떼관계(Tte-gwangye) [ER], 상손익(Sangsonik) [RRR], 상손익비(Sangsonik-ratio) [RRR-ratio], 맺몫(Maet-mok) [AS], 떼몫(Tte-mok) [ES], O.F., R.F., Order©Ido, Disorder©Ido, 손승함수(Sonseung-function) [RWF], 관계묶음(Gwangye-Mukkum) [BR], 몫(Mok) [AES], 혜해(HyeHae) [HB], 반손익(Bansonik) [GRR], 편균인(Pyeongyunin) [DEP], 합균인(Hapgyunin) [SEP], 굶기기(Gumgigi) [SO], 키우기(Kiugi) [OO], 맺떼(Maet-Tte) [AE], 사소(Saso) [AA], 상가치(Sang-gachi) RV, 인식의 평균회귀(Mean Reversion of Perception)**—are original intellectual properties of **Ido** and must be cited as such. Subsequent uses of **©** indicate continued attribution to Ido.
+
+**Philosophical Premises:**
+The following axioms are original intellectual properties of **Ido** and require formal citation:
+* *"Disorder exists within order, and order itself is inherently disorderly©Ido"*
+* *"Every action taken by a being with a will is the result of a compromise between its own will and the will of others©Ido"*
+* *"Giving to one while withholding from the other; hitting one while sparing the other©Ido"*
+* *"If one does not 'Maet' and does not 'Tte', one cannot survive©Ido"*
+
+**Official Citation:**
+Ido (2026). *Jehang-jaerip-ron [EO-IRE] Case Study Library*. Zenodo. DOI: 10.5281/zenodo.18500551
