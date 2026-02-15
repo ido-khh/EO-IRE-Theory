@@ -1,4 +1,4 @@
-# Sangsonik (RRR: Relative Resource-Return)
+# Sangsonik (상손익) [RRR: Relative Resource-Return]
 
 ### 1. Official Definition
 RRR is defined as the **Relative Input & Output** quantified with rigorous consideration for:
