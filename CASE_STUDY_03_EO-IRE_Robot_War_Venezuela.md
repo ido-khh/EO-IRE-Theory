@@ -1,4 +1,4 @@
-# CASE STUDY 01: Super Robot Wars - The Venezuela Scenario
+# CASE STUDY 03: Super Robot Wars - The Venezuela Scenario
 **Framework:** Jehang-jaerip-ron [EO-IRE]©Ido v13.0  
 **Context:** Geopolitical Strategic Simulation (Late 21st Century)
 
