@@ -1,10 +1,10 @@
 # Jehang-jaerip-ron [EO-IRE]©Ido
 *A Bio-Strategic Theory of Behavioral Patterns and Future Trajectories of State and Corporate Entities*
 
-**Official Repository for EO-IRE v13.0 (Canonical Specification v1.2)**
+**Official Repository for EO-IRE v15.0 (Canonical Specification v2.0)**
 
 Author: Hakhoon Kim (Ido) | [ORCID: 0009-0004-9153-1604]  
-DOI: [10.5281/zenodo.18500551](https://doi.org/10.5281/zenodo.18500551)
+DOI: [10.5281/zenodo.18670763](https://doi.org/10.5281/zenodo.18670763)
 
 ---
 
@@ -14,10 +14,10 @@ All projects, software implementations, or academic research adopting this frame
 ### 1. Mandatory Attribution
 All uses of EO-IRE must explicitly cite the original work:
 
-> Ido (2026). Jehang-jaerip-ron [EO-IRE]©Ido. Zenodo. DOI: [10.5281/zenodo.18500551](https://doi.org/10.5281/zenodo.18500551)
+> Ido (2026). Jehang-jaerip-ron [EO-IRE]©Ido. Zenodo. DOI: [10.5281/zenodo.18670763](https://doi.org/10.5281/zenodo.18670763)
 
 ### 2. Canonical Supremacy & Classification
-The 13+ core concepts (including RRR, AR, Maet-gwangye, Tte-gwangye, etc.) and the 7-stage cycle defined in v13.0 serve as the absolute 'Canonical Specification.'
+The 13+ core concepts (including RRR, AR, Maet-gwangye, Tte-gwangye, etc.) and the 7-stage cycle defined in v15.0 serve as the absolute 'Canonical Specification.'
 
 Core EO-IRE: The original theoretical framework; immutable and canonical.
 
@@ -66,7 +66,7 @@ Source code and implementation files are licensed under the [**Apache License 2.
 
 ---
 
-## 📌 Notes for Users (v13.0 Updated)
+## 📌 Notes for Users (v15.0 Updated)
 This repository is the exclusive canonical reference implementation of EO-IRE.
 
 - **Reference Authority:** This implementation is the final authority for all interpretational conflicts.  
@@ -81,7 +81,7 @@ This repository is the exclusive canonical reference implementation of EO-IRE.
 ---
 
 ## 🔗 Official Sources
-- **Zenodo (Full Paper):** [https://doi.org/10.5281/zenodo.18500551](https://doi.org/10.5281/zenodo.18500551)  
+- **Zenodo (Full Paper):** [https://doi.org/10.5281/zenodo.18670763](https://doi.org/10.5281/zenodo.18670763)  
 - **Official Blog / Original Text:** [https://blog.naver.com/ido_khh](https://blog.naver.com/ido_khh)
 
 ---
@@ -97,7 +97,7 @@ For commercial licensing, strategic partnerships, or authorized industrial imple
 
 ---
 
-## 📜 Changelog [v13.0] - 2026-02-06
+## 📜 Changelog [v15.0] - 2026-02-06
 
 * **License Transition:** Updated license from `CC BY-NC-ND 4.0` to `CC BY-NC-SA 4.0`. This change facilitates academic expansion by allowing derivative research, provided they adhere to the same non-commercial and share-alike terms.
 * **Canonical Specification Update:** Introduced the **3-tier classification system** (Core / Applied / Inspired) to preserve theoretical integrity during ecosystem expansion.
@@ -113,9 +113,9 @@ For commercial licensing, strategic partnerships, or authorized industrial imple
   title = {Jehang-jaerip-ron [EO-IRE]: A Bio-Strategic Theory of the Behavioral Patterns and Future Trajectories of State and Corporate Entities},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.18500551},
-  url = {https://doi.org/10.5281/zenodo.18500551},
-  note = {Version 13.0}
+  doi = {10.5281/zenodo.18670763},
+  url = {https://doi.org/10.5281/zenodo.18670763},
+  note = {Version 15.0}
 }
 
 ---
@@ -133,4 +133,4 @@ The following axioms are original intellectual properties of **Ido** and require
 * *"If one does not 'Maet' and does not 'Tte', one cannot survive©Ido"*
 
 **Official Citation:**
-Ido (2026). *Jehang-jaerip-ron [EO-IRE] Case Study Library*. Zenodo. DOI: 10.5281/zenodo.18500551
+Ido (2026). *Jehang-jaerip-ron [EO-IRE] Case Study Library*. Zenodo. DOI: 10.5281/zenodo.18670763
